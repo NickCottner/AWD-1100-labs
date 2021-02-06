@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.exe
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.deps.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.dll
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\bin\Debug\netcoreapp3.1\ProjectPigLatin.pdb
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.dll
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.pdb
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\tPigLatin\ProjectPigLatin\obj\Debug\netcoreapp3.1\ProjectPigLatin.genruntimeconfig.cache

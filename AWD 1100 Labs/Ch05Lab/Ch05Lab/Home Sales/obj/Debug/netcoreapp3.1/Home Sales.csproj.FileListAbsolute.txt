@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.exe
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.dll
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\bin\Debug\netcoreapp3.1\Home Sales.pdb
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.dll
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.pdb
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\Home Sales\obj\Debug\netcoreapp3.1\Home Sales.genruntimeconfig.cache

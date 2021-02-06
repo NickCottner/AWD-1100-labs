@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.exe
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.dll
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\bin\Debug\netcoreapp3.1\WineGlass.pdb
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.dll
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.pdb
+C:\Users\Nick Cottner\Desktop\Labs\Ch01 Lab\WineGlass\obj\Debug\netcoreapp3.1\WineGlass.genruntimeconfig.cache

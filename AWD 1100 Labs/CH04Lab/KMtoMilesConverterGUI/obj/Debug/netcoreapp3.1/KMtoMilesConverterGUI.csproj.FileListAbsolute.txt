@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.exe
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\bin\Debug\netcoreapp3.1\KMtoMilesConverterGUI.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.Ch04Lab.resources
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\KMtoMilesConverterGUI\obj\Debug\netcoreapp3.1\KMtoMilesConverterGUI.genruntimeconfig.cache

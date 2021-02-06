@@ -1,0 +1,45 @@
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.exe
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.FormPercentRaises.resources
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.genruntimeconfig.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.exe
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.FormPercentRaises.resources
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.genruntimeconfig.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\bin\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.FormPercentRaises.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH04Lab\PercentRaises\obj\Debug\netcoreapp3.1\PercentRaises.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.exe
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.deps.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.dll
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\bin\Debug\netcoreapp3.1\ProjectPercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.dll
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.pdb
+C:\Users\Nick Cottner\Desktop\AWD 1100\AWD1100Spring2021Students\Labs\PercentRaises\ProjectPercentRaises\obj\Debug\netcoreapp3.1\ProjectPercentRaises.genruntimeconfig.cache

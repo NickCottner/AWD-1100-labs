@@ -1,0 +1,39 @@
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.exe
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.deps.json
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Pretest\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.genruntimeconfig.cache
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.exe
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Labs\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.genruntimeconfig.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.exe
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\bin\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH02 and 03 Lab\KMtoMiles\ProjectConversionKMtoMiles\obj\Debug\netcoreapp3.1\ProjectConversionKMtoMiles.genruntimeconfig.cache

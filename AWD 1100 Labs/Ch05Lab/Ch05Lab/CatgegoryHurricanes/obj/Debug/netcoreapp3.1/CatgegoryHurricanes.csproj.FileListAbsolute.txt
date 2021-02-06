@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.exe
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.dll
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\bin\Debug\netcoreapp3.1\CatgegoryHurricanes.pdb
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.CategoryofHurricane.resources
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.dll
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.pdb
+C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\Ch05Lab\CatgegoryHurricanes\obj\Debug\netcoreapp3.1\CatgegoryHurricanes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.exe
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.deps.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.runtimeconfig.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.runtimeconfig.dev.json
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\bin\Debug\netcoreapp3.1\EggsProducedByChickens.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.EggsLaid.resources
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.AssemblyInfo.cs
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.dll
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.pdb
+C:\Users\Nick Cottner\Desktop\Labs\CH04Lab\EggsProducedByChickens\obj\Debug\netcoreapp3.1\EggsProducedByChickens.genruntimeconfig.cache
