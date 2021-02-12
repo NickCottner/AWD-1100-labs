@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\bin\Debug\netcoreapp3.1\CreditCardMaster.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.FormCardMasker.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CreditCardMaster\obj\Debug\netcoreapp3.1\CreditCardMaster.genruntimeconfig.cache

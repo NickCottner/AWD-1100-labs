@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\bin\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.FormPaintingEstimate.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\PaintingEstimate\obj\Debug\netcoreapp3.1\PaintingEstimate.genruntimeconfig.cache

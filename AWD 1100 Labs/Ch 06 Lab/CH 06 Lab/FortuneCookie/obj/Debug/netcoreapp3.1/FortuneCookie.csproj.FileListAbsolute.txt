@@ -1,0 +1,16 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\bin\Debug\netcoreapp3.1\FortuneCookie.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.FormFortuneCookie.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\FortuneCookie\obj\Debug\netcoreapp3.1\FortuneCookie.genruntimeconfig.cache

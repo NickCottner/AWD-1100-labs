@@ -16,6 +16,10 @@ namespace HighSchoolGPA
         {
             InitializeComponent();
         }
+        string accept = "ACCEPT";
+        string reject = "REJECT";
+        double gpa = 0.0;
+        double admitScore = 0.0;
 
         private void label2_Click(object sender, EventArgs e)
         {
@@ -34,11 +38,7 @@ namespace HighSchoolGPA
 
         private void btnadmit_Click(object sender, EventArgs e)
         {
-            string accept = "ACCEPT";
-            string reject = "REJECT";
-            double gpa = Convert.ToDouble(textBoxgpa.Text);
-            double admitScore = Convert.ToInt32(textBoxadmissiontestscore.Text);
-
+            
             IsStudentAccepted();
         }
 
@@ -48,18 +48,25 @@ namespace HighSchoolGPA
         }
         private void IsStudentAccepted()
         {
-            if ((gpa >= 3.0) && (admitScore >= 60))
+            gpa = Convert.ToDouble(textBoxgpa.Text);
+            admitScore = Convert.ToDouble(textBoxadmissiontestscore.Text);
+            bool keepGoing = true;
+            if (keepGoing)
             {
-                labelacceptorreject.Text = accept;
+                if ((gpa >= 3.0) && (admitScore >=60))
+                {
+                    labelacceptorreject.Text = accept;
+                }
+                else if ((gpa < 3.0) && (admitScore >= 80))
+                {
+                    labelacceptorreject.Text = accept;
+                }
+                else
+                {
+                    labelacceptorreject.Text = reject;
+                }
             }
-            else if ((gpa < 3.0) && (admitScore >= 80))
-            {
-                labelacceptorreject.Text = accept;
-            }
-            else
-            {
-                labelacceptorreject.Text = reject;
-            }
+            
         }
     }
 }

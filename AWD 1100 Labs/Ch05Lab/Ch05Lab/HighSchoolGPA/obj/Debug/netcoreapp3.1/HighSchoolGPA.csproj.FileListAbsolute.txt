@@ -13,3 +13,18 @@ C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\LAB1\HighSchoolGPA\obj\Debug\netcorea
 C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\LAB1\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.dll
 C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\LAB1\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.pdb
 C:\Users\Nick Cottner\Desktop\Labs\Ch05Lab\LAB1\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.genruntimeconfig.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\bin\Debug\netcoreapp3.1\HighSchoolGPA.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.Form1.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch05Lab\Ch05Lab\HighSchoolGPA\obj\Debug\netcoreapp3.1\HighSchoolGPA.genruntimeconfig.cache
