@@ -1,0 +1,13 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\bin\Debug\netcoreapp3.1\ArrayConsole.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayConsole\obj\Debug\netcoreapp3.1\ArrayConsole.genruntimeconfig.cache

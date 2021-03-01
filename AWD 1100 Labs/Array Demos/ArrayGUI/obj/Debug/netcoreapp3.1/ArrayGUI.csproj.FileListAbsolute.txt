@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\bin\Debug\netcoreapp3.1\ArrayGUI.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.FormArrayGUI.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Array Demos\ArrayGUI\obj\Debug\netcoreapp3.1\ArrayGUI.genruntimeconfig.cache
