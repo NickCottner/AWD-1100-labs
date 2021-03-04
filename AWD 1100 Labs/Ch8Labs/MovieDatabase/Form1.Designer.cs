@@ -34,12 +34,12 @@ namespace MovieDatabase
             this.buttonClear = new System.Windows.Forms.Button();
             this.buttonExit = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.labelName = new System.Windows.Forms.Label();
-            this.labelDirector = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.labeltheName = new System.Windows.Forms.Label();
-            this.labeltheDirector = new System.Windows.Forms.Label();
             this.labeltheDescription = new System.Windows.Forms.Label();
+            this.labeltheDirector = new System.Windows.Forms.Label();
+            this.labeltheName = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.labelDirector = new System.Windows.Forms.Label();
+            this.labelName = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -63,6 +63,7 @@ namespace MovieDatabase
             this.buttonSearch.TabIndex = 1;
             this.buttonSearch.Text = "Search";
             this.buttonSearch.UseVisualStyleBackColor = false;
+            this.buttonSearch.Click += new System.EventHandler(this.buttonSearch_Click);
             // 
             // buttonClear
             // 
@@ -75,6 +76,7 @@ namespace MovieDatabase
             this.buttonClear.TabIndex = 2;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = false;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // buttonExit
             // 
@@ -87,6 +89,7 @@ namespace MovieDatabase
             this.buttonExit.TabIndex = 3;
             this.buttonExit.Text = "Exit";
             this.buttonExit.UseVisualStyleBackColor = false;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // groupBox1
             // 
@@ -101,21 +104,49 @@ namespace MovieDatabase
             this.groupBox1.ForeColor = System.Drawing.SystemColors.HighlightText;
             this.groupBox1.Location = new System.Drawing.Point(26, 184);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(751, 224);
+            this.groupBox1.Size = new System.Drawing.Size(751, 236);
             this.groupBox1.TabIndex = 4;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "The Movie";
             // 
-            // labelName
+            // labeltheDescription
             // 
-            this.labelName.BackColor = System.Drawing.Color.Navy;
-            this.labelName.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.labelName.Location = new System.Drawing.Point(11, 43);
-            this.labelName.Name = "labelName";
-            this.labelName.Size = new System.Drawing.Size(114, 41);
-            this.labelName.TabIndex = 0;
-            this.labelName.Text = "Name:";
-            this.labelName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.labeltheDescription.BackColor = System.Drawing.Color.Navy;
+            this.labeltheDescription.Location = new System.Drawing.Point(145, 155);
+            this.labeltheDescription.Name = "labeltheDescription";
+            this.labeltheDescription.Size = new System.Drawing.Size(580, 66);
+            this.labeltheDescription.TabIndex = 5;
+            this.labeltheDescription.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // labeltheDirector
+            // 
+            this.labeltheDirector.BackColor = System.Drawing.Color.Navy;
+            this.labeltheDirector.Location = new System.Drawing.Point(145, 103);
+            this.labeltheDirector.Name = "labeltheDirector";
+            this.labeltheDirector.Size = new System.Drawing.Size(580, 40);
+            this.labeltheDirector.TabIndex = 4;
+            this.labeltheDirector.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // labeltheName
+            // 
+            this.labeltheName.BackColor = System.Drawing.Color.Navy;
+            this.labeltheName.Location = new System.Drawing.Point(145, 43);
+            this.labeltheName.Name = "labeltheName";
+            this.labeltheName.Size = new System.Drawing.Size(580, 41);
+            this.labeltheName.TabIndex = 3;
+            this.labeltheName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.labeltheName.Click += new System.EventHandler(this.labeltheName_Click);
+            // 
+            // label2
+            // 
+            this.label2.BackColor = System.Drawing.Color.Navy;
+            this.label2.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.label2.Location = new System.Drawing.Point(11, 155);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(114, 66);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Description:";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelDirector
             // 
@@ -129,44 +160,16 @@ namespace MovieDatabase
             this.labelDirector.Text = "Director:";
             this.labelDirector.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // label2
+            // labelName
             // 
-            this.label2.BackColor = System.Drawing.Color.Navy;
-            this.label2.ForeColor = System.Drawing.SystemColors.HighlightText;
-            this.label2.Location = new System.Drawing.Point(11, 167);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(114, 42);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Description:";
-            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // labeltheName
-            // 
-            this.labeltheName.BackColor = System.Drawing.Color.Navy;
-            this.labeltheName.Location = new System.Drawing.Point(145, 43);
-            this.labeltheName.Name = "labeltheName";
-            this.labeltheName.Size = new System.Drawing.Size(580, 41);
-            this.labeltheName.TabIndex = 3;
-            this.labeltheName.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.labeltheName.Click += new System.EventHandler(this.labeltheName_Click);
-            // 
-            // labeltheDirector
-            // 
-            this.labeltheDirector.BackColor = System.Drawing.Color.Navy;
-            this.labeltheDirector.Location = new System.Drawing.Point(145, 103);
-            this.labeltheDirector.Name = "labeltheDirector";
-            this.labeltheDirector.Size = new System.Drawing.Size(580, 40);
-            this.labeltheDirector.TabIndex = 4;
-            this.labeltheDirector.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // labeltheDescription
-            // 
-            this.labeltheDescription.BackColor = System.Drawing.Color.Navy;
-            this.labeltheDescription.Location = new System.Drawing.Point(145, 167);
-            this.labeltheDescription.Name = "labeltheDescription";
-            this.labeltheDescription.Size = new System.Drawing.Size(580, 42);
-            this.labeltheDescription.TabIndex = 5;
-            this.labeltheDescription.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.labelName.BackColor = System.Drawing.Color.Navy;
+            this.labelName.ForeColor = System.Drawing.SystemColors.HighlightText;
+            this.labelName.Location = new System.Drawing.Point(11, 43);
+            this.labelName.Name = "labelName";
+            this.labelName.Size = new System.Drawing.Size(114, 41);
+            this.labelName.TabIndex = 0;
+            this.labelName.Text = "Name:";
+            this.labelName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // FormMovieDatabase
             // 

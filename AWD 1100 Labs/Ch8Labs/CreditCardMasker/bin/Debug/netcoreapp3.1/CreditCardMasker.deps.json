@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreditCardMasker/1.0.0": {
+        "runtime": {
+          "CreditCardMasker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCardMasker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

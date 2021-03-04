@@ -35,10 +35,10 @@ namespace TheCarefreeResort
             this.buttonClear = new System.Windows.Forms.Button();
             this.buttonExit = new System.Windows.Forms.Button();
             this.groupBoxTotalCostOfStay = new System.Windows.Forms.GroupBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.labelNightlyCost = new System.Windows.Forms.Label();
+            this.labelTheTotalCost = new System.Windows.Forms.Label();
+            this.labelTheNightlyCost = new System.Windows.Forms.Label();
             this.labelTotalCost = new System.Windows.Forms.Label();
+            this.labelNightlyCost = new System.Windows.Forms.Label();
             this.groupBoxTotalCostOfStay.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,6 +70,7 @@ namespace TheCarefreeResort
             this.buttonCalculate.TabIndex = 1;
             this.buttonCalculate.Text = "Calculate";
             this.buttonCalculate.UseVisualStyleBackColor = true;
+            this.buttonCalculate.Click += new System.EventHandler(this.buttonCalculate_Click);
             // 
             // buttonClear
             // 
@@ -80,6 +81,7 @@ namespace TheCarefreeResort
             this.buttonClear.TabIndex = 2;
             this.buttonClear.Text = "Clear";
             this.buttonClear.UseVisualStyleBackColor = true;
+            this.buttonClear.Click += new System.EventHandler(this.buttonClear_Click);
             // 
             // buttonExit
             // 
@@ -90,13 +92,14 @@ namespace TheCarefreeResort
             this.buttonExit.TabIndex = 3;
             this.buttonExit.Text = "Exit";
             this.buttonExit.UseVisualStyleBackColor = true;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // groupBoxTotalCostOfStay
             // 
+            this.groupBoxTotalCostOfStay.Controls.Add(this.labelTheTotalCost);
+            this.groupBoxTotalCostOfStay.Controls.Add(this.labelTheNightlyCost);
             this.groupBoxTotalCostOfStay.Controls.Add(this.labelTotalCost);
             this.groupBoxTotalCostOfStay.Controls.Add(this.labelNightlyCost);
-            this.groupBoxTotalCostOfStay.Controls.Add(this.label2);
-            this.groupBoxTotalCostOfStay.Controls.Add(this.label1);
             this.groupBoxTotalCostOfStay.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.groupBoxTotalCostOfStay.Location = new System.Drawing.Point(449, 12);
             this.groupBoxTotalCostOfStay.Name = "groupBoxTotalCostOfStay";
@@ -105,43 +108,41 @@ namespace TheCarefreeResort
             this.groupBoxTotalCostOfStay.TabStop = false;
             this.groupBoxTotalCostOfStay.Text = "Cost of Stay";
             // 
-            // label1
+            // labelTheTotalCost
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(33, 50);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(117, 25);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Nightly Cost";
+            this.labelTheTotalCost.BackColor = System.Drawing.Color.White;
+            this.labelTheTotalCost.Location = new System.Drawing.Point(169, 107);
+            this.labelTheTotalCost.Name = "labelTheTotalCost";
+            this.labelTheTotalCost.Size = new System.Drawing.Size(96, 25);
+            this.labelTheTotalCost.TabIndex = 3;
             // 
-            // label2
+            // labelTheNightlyCost
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(169, 50);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(96, 25);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Total Cost";
-            // 
-            // labelNightlyCost
-            // 
-            this.labelNightlyCost.AutoSize = true;
-            this.labelNightlyCost.Location = new System.Drawing.Point(33, 107);
-            this.labelNightlyCost.Name = "labelNightlyCost";
-            this.labelNightlyCost.Size = new System.Drawing.Size(63, 25);
-            this.labelNightlyCost.TabIndex = 2;
-            this.labelNightlyCost.Text = "label3";
+            this.labelTheNightlyCost.BackColor = System.Drawing.Color.White;
+            this.labelTheNightlyCost.Location = new System.Drawing.Point(33, 107);
+            this.labelTheNightlyCost.Name = "labelTheNightlyCost";
+            this.labelTheNightlyCost.Size = new System.Drawing.Size(117, 25);
+            this.labelTheNightlyCost.TabIndex = 2;
             // 
             // labelTotalCost
             // 
             this.labelTotalCost.AutoSize = true;
-            this.labelTotalCost.Location = new System.Drawing.Point(169, 107);
+            this.labelTotalCost.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelTotalCost.Location = new System.Drawing.Point(169, 50);
             this.labelTotalCost.Name = "labelTotalCost";
-            this.labelTotalCost.Size = new System.Drawing.Size(63, 25);
-            this.labelTotalCost.TabIndex = 3;
-            this.labelTotalCost.Text = "label4";
+            this.labelTotalCost.Size = new System.Drawing.Size(96, 25);
+            this.labelTotalCost.TabIndex = 1;
+            this.labelTotalCost.Text = "Total Cost";
+            // 
+            // labelNightlyCost
+            // 
+            this.labelNightlyCost.AutoSize = true;
+            this.labelNightlyCost.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelNightlyCost.Location = new System.Drawing.Point(33, 50);
+            this.labelNightlyCost.Name = "labelNightlyCost";
+            this.labelNightlyCost.Size = new System.Drawing.Size(117, 25);
+            this.labelNightlyCost.TabIndex = 0;
+            this.labelNightlyCost.Text = "Nightly Cost";
             // 
             // FormCarefreeResort
             // 
@@ -173,10 +174,10 @@ namespace TheCarefreeResort
         private System.Windows.Forms.Button buttonClear;
         private System.Windows.Forms.Button buttonExit;
         private System.Windows.Forms.GroupBox groupBoxTotalCostOfStay;
+        private System.Windows.Forms.Label labelTheTotalCost;
+        private System.Windows.Forms.Label labelTheNightlyCost;
         private System.Windows.Forms.Label labelTotalCost;
         private System.Windows.Forms.Label labelNightlyCost;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
     }
 }
 
