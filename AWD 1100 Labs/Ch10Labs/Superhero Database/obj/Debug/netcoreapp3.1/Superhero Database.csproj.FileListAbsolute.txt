@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\bin\Debug\netcoreapp3.1\Superhero Database.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero_Database.FormSHDB.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch10Labs\Superhero Database\obj\Debug\netcoreapp3.1\Superhero Database.genruntimeconfig.cache
