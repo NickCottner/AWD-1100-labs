@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\bin\Debug\LB2_Photos.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\bin\Debug\LB2_Photos.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\bin\Debug\LB2_Photos.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.FormPhotos.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\LB2_Photos\obj\Debug\LB2_Photos.pdb

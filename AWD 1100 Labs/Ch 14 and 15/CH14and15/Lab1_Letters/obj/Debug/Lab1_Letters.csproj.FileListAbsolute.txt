@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\bin\Debug\Lab1_Letters.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\bin\Debug\Lab1_Letters.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\bin\Debug\Lab1_Letters.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.FormLetterDelivery.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 14 and 15\CH14and15\Lab1_Letters\obj\Debug\Lab1_Letters.pdb
