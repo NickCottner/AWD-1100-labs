@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\bin\Debug\GameBreak.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\bin\Debug\GameBreak.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\bin\Debug\GameBreak.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.FormGameBreak.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\GameBreak\obj\Debug\GameBreak.pdb

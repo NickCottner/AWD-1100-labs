@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\bin\Debug\TheEstimator.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\bin\Debug\TheEstimator.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\bin\Debug\TheEstimator.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.FormTileEstimator.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\TheEstimator\obj\Debug\TheEstimator.pdb

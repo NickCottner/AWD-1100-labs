@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\bin\Debug\WeylandBank.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\bin\Debug\WeylandBank.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\bin\Debug\WeylandBank.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.FormWeylandBank.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\WeylandBank\obj\Debug\WeylandBank.pdb

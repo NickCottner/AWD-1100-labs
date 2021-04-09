@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\bin\Debug\Harold'sHomeServices.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\bin\Debug\Harold'sHomeServices.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\bin\Debug\Harold'sHomeServices.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold'sHomeServices.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold_sHomeServices.FormHaroldsHomeServices.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold_sHomeServices.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold'sHomeServices.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold'sHomeServices.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold'sHomeServices.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\Harold'sHomeServices\obj\Debug\Harold'sHomeServices.pdb

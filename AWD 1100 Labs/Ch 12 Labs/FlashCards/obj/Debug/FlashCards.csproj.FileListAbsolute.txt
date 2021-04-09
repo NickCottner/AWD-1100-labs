@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\bin\Debug\FlashCards.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\bin\Debug\FlashCards.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\bin\Debug\FlashCards.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.FormFC.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 12 Labs\FlashCards\obj\Debug\FlashCards.pdb
