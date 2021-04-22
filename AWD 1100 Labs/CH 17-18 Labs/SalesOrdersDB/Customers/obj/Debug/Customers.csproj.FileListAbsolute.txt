@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\bin\Debug\Customers.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\bin\Debug\Customers.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\bin\Debug\Customers.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.FormSalesOrders.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\SalesOrdersDB\Customers\obj\Debug\Customers.pdb

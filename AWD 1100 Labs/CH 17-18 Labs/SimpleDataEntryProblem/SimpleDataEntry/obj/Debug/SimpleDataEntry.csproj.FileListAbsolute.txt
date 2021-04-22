@@ -1,0 +1,10 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\bin\Debug\SimpleDataEntry.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\bin\Debug\SimpleDataEntry.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\bin\Debug\SimpleDataEntry.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.FormDataEntry.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\SimpleDataEntryProblem\SimpleDataEntry\obj\Debug\SimpleDataEntry.pdb

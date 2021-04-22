@@ -1,0 +1,20 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.frmSalesOrdersAuto.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.exe.config
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\bin\Debug\salesOrdersDB2.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.frmSalesOrdersAuto.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.Properties.Resources.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\CH 17-18 Labs\salesOrdersDB2\salesOrdersDB2\obj\Debug\salesOrdersDB2.pdb
