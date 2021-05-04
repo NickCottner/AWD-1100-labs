@@ -30,170 +30,179 @@ namespace Superhero_Database
         private void InitializeComponent()
         {
             this.comboBoxSH = new System.Windows.Forms.ComboBox();
-            this.groupBoxSH = new System.Windows.Forms.GroupBox();
-            this.labelWiki = new System.Windows.Forms.Label();
+            this.pictureBoxSH = new System.Windows.Forms.PictureBox();
+            this.groupBoxSHInfo = new System.Windows.Forms.GroupBox();
+            this.labelWikis = new System.Windows.Forms.Label();
             this.labelTheBiography = new System.Windows.Forms.Label();
             this.labelBiography = new System.Windows.Forms.Label();
-            this.labelTheSP = new System.Windows.Forms.Label();
-            this.labelSP = new System.Windows.Forms.Label();
-            this.labelTheDislikes = new System.Windows.Forms.Label();
-            this.labelDislikes = new System.Windows.Forms.Label();
-            this.labelTheLikes = new System.Windows.Forms.Label();
-            this.labelLikes = new System.Windows.Forms.Label();
             this.labelName = new System.Windows.Forms.Label();
-            this.pictureBoxSH = new System.Windows.Forms.PictureBox();
-            this.groupBoxSH.SuspendLayout();
+            this.labelTheSuperpower = new System.Windows.Forms.Label();
+            this.labelTheDislikes = new System.Windows.Forms.Label();
+            this.labelTheLikes = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.labelDislikes = new System.Windows.Forms.Label();
+            this.labelLikes = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxSH)).BeginInit();
+            this.groupBoxSHInfo.SuspendLayout();
             this.SuspendLayout();
             // 
             // comboBoxSH
             // 
+            this.comboBoxSH.BackColor = System.Drawing.Color.White;
+            this.comboBoxSH.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.comboBoxSH.FormattingEnabled = true;
             this.comboBoxSH.Location = new System.Drawing.Point(13, 13);
             this.comboBoxSH.Name = "comboBoxSH";
-            this.comboBoxSH.Size = new System.Drawing.Size(182, 33);
+            this.comboBoxSH.Size = new System.Drawing.Size(218, 33);
             this.comboBoxSH.TabIndex = 0;
             this.comboBoxSH.SelectedIndexChanged += new System.EventHandler(this.comboBoxSH_SelectedIndexChanged);
             // 
-            // groupBoxSH
+            // pictureBoxSH
             // 
-            this.groupBoxSH.Controls.Add(this.labelWiki);
-            this.groupBoxSH.Controls.Add(this.labelTheBiography);
-            this.groupBoxSH.Controls.Add(this.labelBiography);
-            this.groupBoxSH.Controls.Add(this.labelTheSP);
-            this.groupBoxSH.Controls.Add(this.labelSP);
-            this.groupBoxSH.Controls.Add(this.labelTheDislikes);
-            this.groupBoxSH.Controls.Add(this.labelDislikes);
-            this.groupBoxSH.Controls.Add(this.labelTheLikes);
-            this.groupBoxSH.Controls.Add(this.labelLikes);
-            this.groupBoxSH.Controls.Add(this.labelName);
-            this.groupBoxSH.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.groupBoxSH.Location = new System.Drawing.Point(13, 52);
-            this.groupBoxSH.Name = "groupBoxSH";
-            this.groupBoxSH.Size = new System.Drawing.Size(609, 386);
-            this.groupBoxSH.TabIndex = 1;
-            this.groupBoxSH.TabStop = false;
-            this.groupBoxSH.Text = "Superhero";
+            this.pictureBoxSH.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBoxSH.Location = new System.Drawing.Point(637, 13);
+            this.pictureBoxSH.Name = "pictureBoxSH";
+            this.pictureBoxSH.Size = new System.Drawing.Size(329, 595);
+            this.pictureBoxSH.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBoxSH.TabIndex = 2;
+            this.pictureBoxSH.TabStop = false;
             // 
-            // labelWiki
+            // groupBoxSHInfo
             // 
-            this.labelWiki.AutoSize = true;
-            this.labelWiki.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.labelWiki.Location = new System.Drawing.Point(7, 346);
-            this.labelWiki.Name = "labelWiki";
-            this.labelWiki.Size = new System.Drawing.Size(0, 25);
-            this.labelWiki.TabIndex = 9;
+            this.groupBoxSHInfo.BackColor = System.Drawing.Color.White;
+            this.groupBoxSHInfo.Controls.Add(this.labelWikis);
+            this.groupBoxSHInfo.Controls.Add(this.labelTheBiography);
+            this.groupBoxSHInfo.Controls.Add(this.labelBiography);
+            this.groupBoxSHInfo.Controls.Add(this.labelName);
+            this.groupBoxSHInfo.Controls.Add(this.labelTheSuperpower);
+            this.groupBoxSHInfo.Controls.Add(this.labelTheDislikes);
+            this.groupBoxSHInfo.Controls.Add(this.labelTheLikes);
+            this.groupBoxSHInfo.Controls.Add(this.label2);
+            this.groupBoxSHInfo.Controls.Add(this.labelDislikes);
+            this.groupBoxSHInfo.Controls.Add(this.labelLikes);
+            this.groupBoxSHInfo.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.groupBoxSHInfo.Location = new System.Drawing.Point(13, 52);
+            this.groupBoxSHInfo.Name = "groupBoxSHInfo";
+            this.groupBoxSHInfo.Size = new System.Drawing.Size(618, 556);
+            this.groupBoxSHInfo.TabIndex = 3;
+            this.groupBoxSHInfo.TabStop = false;
+            this.groupBoxSHInfo.Text = "Superhero Info";
+            // 
+            // labelWikis
+            // 
+            this.labelWikis.BackColor = System.Drawing.Color.Navy;
+            this.labelWikis.ForeColor = System.Drawing.Color.White;
+            this.labelWikis.Location = new System.Drawing.Point(10, 512);
+            this.labelWikis.Name = "labelWikis";
+            this.labelWikis.Size = new System.Drawing.Size(592, 38);
+            this.labelWikis.TabIndex = 9;
+            this.labelWikis.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelTheBiography
             // 
-            this.labelTheBiography.AutoSize = true;
-            this.labelTheBiography.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.labelTheBiography.Font = new System.Drawing.Font("Segoe UI", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.labelTheBiography.Location = new System.Drawing.Point(7, 254);
+            this.labelTheBiography.BackColor = System.Drawing.Color.Navy;
+            this.labelTheBiography.ForeColor = System.Drawing.Color.White;
+            this.labelTheBiography.Location = new System.Drawing.Point(10, 357);
             this.labelTheBiography.Name = "labelTheBiography";
-            this.labelTheBiography.Size = new System.Drawing.Size(0, 21);
+            this.labelTheBiography.Size = new System.Drawing.Size(592, 141);
             this.labelTheBiography.TabIndex = 8;
+            this.labelTheBiography.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelBiography
             // 
-            this.labelBiography.BackColor = System.Drawing.SystemColors.Menu;
-            this.labelBiography.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelBiography.Location = new System.Drawing.Point(7, 217);
+            this.labelBiography.AutoSize = true;
+            this.labelBiography.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelBiography.Location = new System.Drawing.Point(10, 306);
             this.labelBiography.Name = "labelBiography";
-            this.labelBiography.Size = new System.Drawing.Size(117, 37);
+            this.labelBiography.Size = new System.Drawing.Size(152, 38);
             this.labelBiography.TabIndex = 7;
             this.labelBiography.Text = "Biography";
+            this.labelBiography.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // labelTheSP
+            // labelName
             // 
-            this.labelTheSP.AutoSize = true;
-            this.labelTheSP.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.labelTheSP.Location = new System.Drawing.Point(116, 165);
-            this.labelTheSP.Name = "labelTheSP";
-            this.labelTheSP.Size = new System.Drawing.Size(0, 25);
-            this.labelTheSP.TabIndex = 6;
+            this.labelName.BackColor = System.Drawing.Color.Navy;
+            this.labelName.Font = new System.Drawing.Font("Segoe UI", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.labelName.ForeColor = System.Drawing.Color.White;
+            this.labelName.Location = new System.Drawing.Point(10, 50);
+            this.labelName.Name = "labelName";
+            this.labelName.Size = new System.Drawing.Size(592, 77);
+            this.labelName.TabIndex = 6;
+            this.labelName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // labelSP
+            // labelTheSuperpower
             // 
-            this.labelSP.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelSP.Location = new System.Drawing.Point(7, 165);
-            this.labelSP.Name = "labelSP";
-            this.labelSP.Size = new System.Drawing.Size(125, 25);
-            this.labelSP.TabIndex = 5;
-            this.labelSP.Text = "Superpower: ";
+            this.labelTheSuperpower.BackColor = System.Drawing.Color.Navy;
+            this.labelTheSuperpower.ForeColor = System.Drawing.Color.White;
+            this.labelTheSuperpower.Location = new System.Drawing.Point(153, 251);
+            this.labelTheSuperpower.Name = "labelTheSuperpower";
+            this.labelTheSuperpower.Size = new System.Drawing.Size(449, 38);
+            this.labelTheSuperpower.TabIndex = 5;
+            this.labelTheSuperpower.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelTheDislikes
             // 
-            this.labelTheDislikes.AutoSize = true;
-            this.labelTheDislikes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.labelTheDislikes.Location = new System.Drawing.Point(76, 129);
+            this.labelTheDislikes.BackColor = System.Drawing.Color.Navy;
+            this.labelTheDislikes.ForeColor = System.Drawing.Color.White;
+            this.labelTheDislikes.Location = new System.Drawing.Point(153, 208);
             this.labelTheDislikes.Name = "labelTheDislikes";
-            this.labelTheDislikes.Size = new System.Drawing.Size(0, 25);
+            this.labelTheDislikes.Size = new System.Drawing.Size(449, 38);
             this.labelTheDislikes.TabIndex = 4;
+            this.labelTheDislikes.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // labelTheLikes
+            // 
+            this.labelTheLikes.BackColor = System.Drawing.Color.Navy;
+            this.labelTheLikes.ForeColor = System.Drawing.Color.White;
+            this.labelTheLikes.Location = new System.Drawing.Point(153, 161);
+            this.labelTheLikes.Name = "labelTheLikes";
+            this.labelTheLikes.Size = new System.Drawing.Size(449, 38);
+            this.labelTheLikes.TabIndex = 3;
+            this.labelTheLikes.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(10, 258);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(120, 25);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Superpower:";
             // 
             // labelDislikes
             // 
             this.labelDislikes.AutoSize = true;
-            this.labelDislikes.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelDislikes.Location = new System.Drawing.Point(7, 129);
+            this.labelDislikes.Location = new System.Drawing.Point(49, 215);
             this.labelDislikes.Name = "labelDislikes";
-            this.labelDislikes.Size = new System.Drawing.Size(86, 25);
-            this.labelDislikes.TabIndex = 3;
-            this.labelDislikes.Text = "Dislikes: ";
-            // 
-            // labelTheLikes
-            // 
-            this.labelTheLikes.AutoSize = true;
-            this.labelTheLikes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.labelTheLikes.Location = new System.Drawing.Point(54, 95);
-            this.labelTheLikes.Name = "labelTheLikes";
-            this.labelTheLikes.Size = new System.Drawing.Size(0, 25);
-            this.labelTheLikes.TabIndex = 2;
+            this.labelDislikes.Size = new System.Drawing.Size(81, 25);
+            this.labelDislikes.TabIndex = 1;
+            this.labelDislikes.Text = "Dislikes:";
             // 
             // labelLikes
             // 
             this.labelLikes.AutoSize = true;
-            this.labelLikes.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelLikes.Location = new System.Drawing.Point(6, 95);
+            this.labelLikes.Location = new System.Drawing.Point(71, 168);
             this.labelLikes.Name = "labelLikes";
-            this.labelLikes.Size = new System.Drawing.Size(64, 25);
-            this.labelLikes.TabIndex = 1;
-            this.labelLikes.Text = "Likes: ";
-            // 
-            // labelName
-            // 
-            this.labelName.AutoSize = true;
-            this.labelName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.labelName.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.labelName.Location = new System.Drawing.Point(7, 27);
-            this.labelName.Name = "labelName";
-            this.labelName.Size = new System.Drawing.Size(0, 32);
-            this.labelName.TabIndex = 0;
-            // 
-            // pictureBoxSH
-            // 
-            this.pictureBoxSH.Location = new System.Drawing.Point(526, 1);
-            this.pictureBoxSH.Name = "pictureBoxSH";
-            this.pictureBoxSH.Size = new System.Drawing.Size(284, 314);
-            this.pictureBoxSH.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBoxSH.TabIndex = 2;
-            this.pictureBoxSH.TabStop = false;
+            this.labelLikes.Size = new System.Drawing.Size(59, 25);
+            this.labelLikes.TabIndex = 0;
+            this.labelLikes.Text = "Likes:";
             // 
             // FormSHDB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.Navy;
+            this.ClientSize = new System.Drawing.Size(972, 620);
+            this.Controls.Add(this.groupBoxSHInfo);
             this.Controls.Add(this.pictureBoxSH);
-            this.Controls.Add(this.groupBoxSH);
             this.Controls.Add(this.comboBoxSH);
             this.Name = "FormSHDB";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Superhero Database";
             this.Activated += new System.EventHandler(this.FormSHDB_Activated);
-            this.groupBoxSH.ResumeLayout(false);
-            this.groupBoxSH.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxSH)).EndInit();
+            this.groupBoxSHInfo.ResumeLayout(false);
+            this.groupBoxSHInfo.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -201,18 +210,18 @@ namespace Superhero_Database
         #endregion
 
         private System.Windows.Forms.ComboBox comboBoxSH;
-        private System.Windows.Forms.GroupBox groupBoxSH;
-        private System.Windows.Forms.Label labelWiki;
-        private System.Windows.Forms.Label labelTheBiography;
-        private System.Windows.Forms.Label labelBiography;
-        private System.Windows.Forms.Label labelTheSP;
-        private System.Windows.Forms.Label labelSP;
+        private System.Windows.Forms.PictureBox pictureBoxSH;
+        private System.Windows.Forms.GroupBox groupBoxSHInfo;
+        private System.Windows.Forms.Label labelTheSuperpower;
         private System.Windows.Forms.Label labelTheDislikes;
-        private System.Windows.Forms.Label labelDislikes;
         private System.Windows.Forms.Label labelTheLikes;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label labelDislikes;
         private System.Windows.Forms.Label labelLikes;
         private System.Windows.Forms.Label labelName;
-        private System.Windows.Forms.PictureBox pictureBoxSH;
+        private System.Windows.Forms.Label labelBiography;
+        private System.Windows.Forms.Label labelTheBiography;
+        private System.Windows.Forms.Label labelWikis;
     }
 }
 

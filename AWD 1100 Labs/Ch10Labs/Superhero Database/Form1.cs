@@ -24,7 +24,7 @@ namespace Superhero_Database
                            "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\Labs\\AWD 1100 Labs\\Ch10Labs\\Superhero Database\\Images\\winter soldier.jfif",
                            "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\Labs\\AWD 1100 Labs\\Ch10Labs\\Superhero Database\\Images\\Drax.jpg",
                            "C:\\Users\\Nick Cottner\\OneDrive\\Desktop\\Labs\\AWD 1100 Labs\\Ch10Labs\\Superhero Database\\Images\\Gamora.jpg"};
-        string[] names = { "", "Black Widow", "Deadpool", "Winter Solider", "Drax", "Gamora" };
+        string[] names = { "Please Select A Hero", "Black Widow", "Deadpool", "Winter Solider", "Drax", "Gamora" };
         string[] likes = { "", "Bruce Banner", "Vanessa Carlysle", "Dolores", "Ovette", "Peter Quill" };
         string[] dislikes = { "", "Red Room", "Ajax", "HYDRA", "Thanos", "Chitauri" };
         string[] superpowers = {"", "Master Spy", "Self Regenerating Mercenary", "Enhanced Super Solider",
@@ -60,9 +60,9 @@ namespace Superhero_Database
             labelName.Text = names[index];
             labelTheLikes.Text = likes[index];
             labelTheDislikes.Text = dislikes[index];
-            labelTheSP.Text = superpowers[index];
+            labelTheSuperpower.Text = superpowers[index];
             labelTheBiography.Text = bios[index];
-            labelWiki.Text = wikis[index];
+            labelWikis.Text = wikis[index];
         }
     }
 }
