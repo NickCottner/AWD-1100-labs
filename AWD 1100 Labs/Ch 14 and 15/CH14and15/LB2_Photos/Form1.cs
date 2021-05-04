@@ -254,7 +254,7 @@ namespace LB2_Photos
                 case "Unframed":
                     fc = UNFRAMED;
                     Photo p = new Photo(width, height);
-                    labelTotals.Text = p.ToString();
+                    labelTotals.Text = p.ToString() + " Unframed";
                     break;
 
                 case "Matted":

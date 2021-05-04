@@ -89,17 +89,21 @@ namespace LB2_Photos
             // 
             // textBoxWidth
             // 
+            this.textBoxWidth.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxWidth.Location = new System.Drawing.Point(112, 13);
             this.textBoxWidth.Name = "textBoxWidth";
-            this.textBoxWidth.Size = new System.Drawing.Size(656, 26);
+            this.textBoxWidth.Size = new System.Drawing.Size(124, 26);
             this.textBoxWidth.TabIndex = 0;
+            this.textBoxWidth.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // textBoxHeight
             // 
+            this.textBoxHeight.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBoxHeight.Location = new System.Drawing.Point(112, 103);
             this.textBoxHeight.Name = "textBoxHeight";
-            this.textBoxHeight.Size = new System.Drawing.Size(656, 26);
+            this.textBoxHeight.Size = new System.Drawing.Size(124, 26);
             this.textBoxHeight.TabIndex = 1;
+            this.textBoxHeight.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // groupBoxFramed
             // 
@@ -419,11 +423,11 @@ namespace LB2_Photos
             // 
             this.labelTotals.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.labelTotals.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTotals.Location = new System.Drawing.Point(12, 661);
+            this.labelTotals.Location = new System.Drawing.Point(12, 649);
             this.labelTotals.Name = "labelTotals";
             this.labelTotals.Size = new System.Drawing.Size(643, 41);
             this.labelTotals.TabIndex = 10;
-            this.labelTotals.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.labelTotals.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // FormPhotos
             // 
