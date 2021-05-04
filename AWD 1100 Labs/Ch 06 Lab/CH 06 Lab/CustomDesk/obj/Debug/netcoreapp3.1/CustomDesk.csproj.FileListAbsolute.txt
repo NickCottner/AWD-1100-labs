@@ -1,0 +1,15 @@
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.exe
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.deps.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.runtimeconfig.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.runtimeconfig.dev.json
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\bin\Debug\netcoreapp3.1\CustomDesk.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.csprojAssemblyReference.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.FormCustomDesk.resources
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.csproj.GenerateResource.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.AssemblyInfoInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.AssemblyInfo.cs
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.csproj.CoreCompileInputs.cache
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.dll
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.pdb
+C:\Users\Nick Cottner\OneDrive\Desktop\Labs\AWD 1100 Labs\Ch 06 Lab\CH 06 Lab\CustomDesk\obj\Debug\netcoreapp3.1\CustomDesk.genruntimeconfig.cache
